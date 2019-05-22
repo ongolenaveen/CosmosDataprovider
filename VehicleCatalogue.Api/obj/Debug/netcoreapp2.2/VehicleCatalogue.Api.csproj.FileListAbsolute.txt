@@ -1,0 +1,14 @@
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\bin\Debug\netcoreapp2.2\VehicleCatalogue.Api.deps.json
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\bin\Debug\netcoreapp2.2\VehicleCatalogue.Api.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\bin\Debug\netcoreapp2.2\VehicleCatalogue.Api.pdb
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\bin\Debug\netcoreapp2.2\VehicleCatalogue.Domain.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\bin\Debug\netcoreapp2.2\VehicleCatalogue.Services.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\bin\Debug\netcoreapp2.2\VehicleCatalogue.Services.pdb
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\bin\Debug\netcoreapp2.2\VehicleCatalogue.Domain.pdb
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\obj\Debug\netcoreapp2.2\VehicleCatalogue.Api.csprojAssemblyReference.cache
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\obj\Debug\netcoreapp2.2\VehicleCatalogue.Api.csproj.CoreCompileInputs.cache
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\obj\Debug\netcoreapp2.2\VehicleCatalogue.Api.AssemblyInfoInputs.cache
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\obj\Debug\netcoreapp2.2\VehicleCatalogue.Api.AssemblyInfo.cs
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\obj\Debug\netcoreapp2.2\VehicleCatalogue.Api.csproj.CopyComplete
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\obj\Debug\netcoreapp2.2\VehicleCatalogue.Api.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Api\obj\Debug\netcoreapp2.2\VehicleCatalogue.Api.pdb

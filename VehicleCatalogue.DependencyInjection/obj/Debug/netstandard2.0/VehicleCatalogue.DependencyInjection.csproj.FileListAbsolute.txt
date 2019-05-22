@@ -1,0 +1,5 @@
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.DependencyInjection\bin\Debug\netstandard2.0\VehicleCatalogue.DependencyInjection.deps.json
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.DependencyInjection\bin\Debug\netstandard2.0\VehicleCatalogue.DependencyInjection.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.DependencyInjection\obj\Debug\netstandard2.0\VehicleCatalogue.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.DependencyInjection\obj\Debug\netstandard2.0\VehicleCatalogue.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.DependencyInjection\obj\Debug\netstandard2.0\VehicleCatalogue.DependencyInjection.AssemblyInfo.cs

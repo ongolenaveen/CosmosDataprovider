@@ -1,0 +1,14 @@
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\bin\Debug\netstandard2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\bin\Debug\netstandard2.0\VehicleCatalogue.CosmosDataprovider.deps.json
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\bin\Debug\netstandard2.0\VehicleCatalogue.CosmosDataprovider.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\bin\Debug\netstandard2.0\VehicleCatalogue.CosmosDataprovider.pdb
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\bin\Debug\netstandard2.0\VehicleCatalogue.Domain.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\bin\Debug\netstandard2.0\VehicleCatalogue.Domain.pdb
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\obj\Debug\netstandard2.0\VehicleCatalogue.CosmosDataprovider.csprojAssemblyReference.cache
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\obj\Debug\netstandard2.0\VehicleCatalogue.CosmosDataprovider.csproj.CoreCompileInputs.cache
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\obj\Debug\netstandard2.0\VehicleCatalogue.CosmosDataprovider.AssemblyInfoInputs.cache
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\obj\Debug\netstandard2.0\VehicleCatalogue.CosmosDataprovider.AssemblyInfo.cs
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\obj\Debug\netstandard2.0\VehicleCatalogue.CosmosDataprovider.csproj.CopyComplete
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\obj\Debug\netstandard2.0\VehicleCatalogue.CosmosDataprovider.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.CosmosDataprovider\obj\Debug\netstandard2.0\VehicleCatalogue.CosmosDataprovider.pdb

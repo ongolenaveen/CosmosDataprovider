@@ -1,0 +1,8 @@
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Domain\bin\Debug\netstandard2.0\VehicleCatalogue.Domain.deps.json
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Domain\bin\Debug\netstandard2.0\VehicleCatalogue.Domain.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Domain\bin\Debug\netstandard2.0\VehicleCatalogue.Domain.pdb
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Domain\obj\Debug\netstandard2.0\VehicleCatalogue.Domain.csproj.CoreCompileInputs.cache
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Domain\obj\Debug\netstandard2.0\VehicleCatalogue.Domain.AssemblyInfoInputs.cache
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Domain\obj\Debug\netstandard2.0\VehicleCatalogue.Domain.AssemblyInfo.cs
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Domain\obj\Debug\netstandard2.0\VehicleCatalogue.Domain.dll
+C:\Users\npapisetty\source\repos\VehicleCatalogue.WebApp\VehicleCatalogue.Domain\obj\Debug\netstandard2.0\VehicleCatalogue.Domain.pdb
